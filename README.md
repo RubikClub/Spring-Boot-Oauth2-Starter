@@ -4,7 +4,7 @@
 <h2 align="center">Spring Boot Oauth2</h2>
 
 <p align="center">
-<a href="https://github.com/95Revolution/Kiyamuda-pwa/blob/master/LICENSE"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://github.com/RubikClub/Spring-Boot-Oauth2-Starter/blob/master/LICENSE"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 <a href="https://join.slack.com/t/rubikclub/shared_invite/enQtNDg0NzcwMjkzMDA4LTNjMTI3Njc4Y2JjYWExYjNkYjk1NTE5NmM5NmU1NzVlNTllMTZhODFjZTFmOGNiMDVkYTMzZDIzYjA2ZGQ0Y2U"><img src="https://img.shields.io/badge/chat-on%20slack-7289da.svg" alt="Slack"></a>
 </p>
 
